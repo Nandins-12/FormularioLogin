@@ -1,6 +1,6 @@
 # Formulario de Login 8bits </h1>
 
-<img src="preview.png">
+<img src="previa.png">
 
 <p>Projeto criado como exercicio, para treinamento das tecnlogias:</p>
 
